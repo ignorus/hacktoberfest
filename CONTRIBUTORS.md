@@ -576,6 +576,10 @@ to explore life. Also, Python and Django Developer
 - Bio: Student at UW. Likes easy ways to make sure tools are set up in new environments (like this project)
 - Github: Wow isn't this right up there ^ [Dennis Orzikh](https://github.com/orzikhd)
 
+#### Name: Ignorus
+ - Place: Sao Paulo, Brazil
+ - Bio: Software engineer. Graduated from UTFPR
+
 #### Name: [Daksh Chaturvedi](https://github.com/daksh249)
 - Place: New Delhi, India
 - Bio: ECE Undergraduate at IIIT-Delhi
